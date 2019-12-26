@@ -27,4 +27,4 @@
 ![](https://github.com/finch445/NIU-IoT-course-midterm-project/blob/master/diagram2.png)
 
 ## Demo video
-![Click to see demo video](https://youtu.be/wkOWCFXE88M)
+[Click to see demo video](https://youtu.be/wkOWCFXE88M)
